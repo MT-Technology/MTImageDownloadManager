@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MTImageDownloadManager_Example' do
+  pod 'MTImageDownloadManager', :path => '../'
+
+  target 'MTImageDownloadManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
