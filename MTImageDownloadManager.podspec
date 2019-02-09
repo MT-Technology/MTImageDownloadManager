@@ -9,6 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MTImageDownloadManager'
   s.version          = '0.1.0'
+  s.swift_version    = '4.2'
   s.summary          = 'MTWebServiceManager is a framework that allow download image from url.'
 
 # This description is used to generate tags and improve search results.
